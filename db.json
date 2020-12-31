@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "air max superflyy",
+      "price": "$99",
+      "brand": "Nike",
+      "inventoryStatus": true,
+      "id": 1
+    },
+    {
+      "name": "Jordans lows",
+      "price": "$109",
+      "brand": "Nike",
+      "inventoryStatus": false,
+      "id": 5
+    },
+    {
+      "name": "jordan highs",
+      "price": "$189",
+      "brand": "nike",
+      "inventoryStatus": true,
+      "id": 7
+    }
+  ]
+}
